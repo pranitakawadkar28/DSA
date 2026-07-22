@@ -1,42 +1,40 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-         List<Integer> ans = new ArrayList<>();
+        // Result list jisme anagram ke starting index store honge
+        List<Integer> res = new ArrayList<>();
 
-        if (s.length() < p.length()) return ans;
+        int n = s.length();
+        int k = p.length();
 
-        int[] freq = new int[26];
+        // Agar pattern bada hai string se, to anagram possible hi nahi
+        if (k > n) return res;
 
-        // Store frequency of characters in p
-        for (char c : p.toCharArray()) {
-            freq[c - 'a']++;
+        // Pattern ke characters ki frequency store karenge
+        int[] pCount = new int[26];
+
+        // Pattern ki frequency count
+        for (int i = 0; i < k; i++) {
+            pCount[p.charAt(i) - 'a']++;
         }
 
-        int left = 0, right = 0;
-        int count = p.length();
+        // String me har possible window of size k check karenge
+        for (int i = 0; i <= n - k; i++) {
 
-        while (right < s.length()) {
-            // Include current character
-            if (freq[s.charAt(right) - 'a'] > 0) {
-                count--;
-            }
-            freq[s.charAt(right) - 'a']--;
-            right++;
+            // Current window ki frequency
+            int[] sCount = new int[26];
 
-            // Found an anagram
-            if (count == 0) {
-                ans.add(left);
+            // Window ke har character ki frequency count karo
+            for (int j = i; j < i + k; j++) {
+                sCount[s.charAt(j) - 'a']++;
             }
 
-            // Shrink window if its size equals p.length()
-            if (right - left == p.length()) {
-                if (freq[s.charAt(left) - 'a'] >= 0) {
-                    count++;
-                }
-                freq[s.charAt(left) - 'a']++;
-                left++;
+            // Agar dono frequency arrays same hain
+            // to current window ek anagram hai
+            if (Arrays.equals(pCount, sCount)) {
+                res.add(i);   // Starting index add karo
             }
         }
 
-        return ans;
+        return res;
     }
 }
