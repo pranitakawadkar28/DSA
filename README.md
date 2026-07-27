@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pranitakawadkar28/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranitakawadkar28/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pranitakawadkar28/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/pranitakawadkar28/DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pranitakawadkar28/DSA/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pranitakawadkar28/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
