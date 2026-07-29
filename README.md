@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pranitakawadkar28/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pranitakawadkar28/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pranitakawadkar28/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranitakawadkar28/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
