@@ -1,19 +1,19 @@
 class Solution {
     public int reverse(int x) {
-        int rev = 0;
+       int rev = 0;
 
-        while(x != 0) {
+        while (x != 0) {
 
-            int temp = x % 10;
+            int digit = x % 10;
             x = x / 10;
 
-            if(rev > 0 && rev > (Integer.MAX_VALUE - temp) / 10 ||
-               rev < 0 && rev < (Integer.MIN_VALUE - temp) / 10
-            ){
+            // Check overflow before updating rev
+            if (rev > 0 && rev > (Integer.MAX_VALUE - digit) / 10 ||
+                rev < 0 && rev < (Integer.MIN_VALUE - digit) / 10) {
                 return 0;
             }
 
-            rev = rev * 10 + temp;
+            rev = rev * 10 + digit;
         }
 
         return rev;
