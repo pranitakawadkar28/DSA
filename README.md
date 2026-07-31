@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/pranitakawadkar28/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pranitakawadkar28/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/pranitakawadkar28/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/pranitakawadkar28/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pranitakawadkar28/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/pranitakawadkar28/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,5 +110,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/pranitakawadkar28/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
