@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/pranitakawadkar28/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/pranitakawadkar28/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pranitakawadkar28/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/pranitakawadkar28/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/pranitakawadkar28/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/pranitakawadkar28/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/pranitakawadkar28/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranitakawadkar28/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
