@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/pranitakawadkar28/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/pranitakawadkar28/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/pranitakawadkar28/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/pranitakawadkar28/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/pranitakawadkar28/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/pranitakawadkar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/pranitakawadkar28/DSA/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranitakawadkar28/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pranitakawadkar28/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/pranitakawadkar28/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pranitakawadkar28/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pranitakawadkar28/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranitakawadkar28/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pranitakawadkar28/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/pranitakawadkar28/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/pranitakawadkar28/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranitakawadkar28/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
