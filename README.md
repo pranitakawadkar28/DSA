@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranitakawadkar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/pranitakawadkar28/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranitakawadkar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
