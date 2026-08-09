@@ -6,8 +6,8 @@ class Solution {
 
         int actual = 0;
 
-        for (int num : nums) {
-            actual += num;
+        for(int i=0; i<nums.length; i++){
+            actual = actual + nums[i];
         }
 
         return expected - actual;
