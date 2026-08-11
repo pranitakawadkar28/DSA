@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pranitakawadkar28/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranitakawadkar28/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranitakawadkar28/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranitakawadkar28/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/pranitakawadkar28/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pranitakawadkar28/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranitakawadkar28/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranitakawadkar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
