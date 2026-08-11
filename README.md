@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/pranitakawadkar28/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranitakawadkar28/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranitakawadkar28/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pranitakawadkar28/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/pranitakawadkar28/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pranitakawadkar28/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/pranitakawadkar28/DSA/tree/main/0148-sort-list/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pranitakawadkar28/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/pranitakawadkar28/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranitakawadkar28/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pranitakawadkar28/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranitakawadkar28/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranitakawadkar28/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pranitakawadkar28/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/pranitakawadkar28/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranitakawadkar28/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -236,4 +239,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pranitakawadkar28/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pranitakawadkar28/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
