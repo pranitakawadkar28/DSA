@@ -8,9 +8,9 @@ class Solution {
         int sum = 0;
 
         while(x != 0){
-            int temp = x % 10;
-            x = x / 10;
-            sum = sum * 10 + temp;
+            int temp = x % 10; 
+            x = x / 10;  
+            sum = sum * 10 + temp; 
         }
 
         return sum == target;
