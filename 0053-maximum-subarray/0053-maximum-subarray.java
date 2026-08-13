@@ -4,11 +4,11 @@ class Solution {
         int currsum = 0;
 
         for(int i=0; i<nums.length; i++){
-            currsum = currsum + nums[i];
+            currsum += nums[i];
 
             if(currsum > maxsum){
                 maxsum = currsum;
-            } 
+            }
 
             if(currsum < 0){
                 currsum = 0;
