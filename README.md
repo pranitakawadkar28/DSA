@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranitakawadkar28/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pranitakawadkar28/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pranitakawadkar28/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranitakawadkar28/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -196,22 +198,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pranitakawadkar28/DSA/tree/main/0169-majority-element/) | Easy |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pranitakawadkar28/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranitakawadkar28/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pranitakawadkar28/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
@@ -251,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/pranitakawadkar28/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/pranitakawadkar28/DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
