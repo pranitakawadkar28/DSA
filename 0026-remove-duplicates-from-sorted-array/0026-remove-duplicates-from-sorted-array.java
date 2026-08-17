@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        HashSet <Integer> set = new HashSet<>();
 
         int k = 0;
 
@@ -8,11 +8,10 @@ class Solution {
             if(!set.contains(nums[i])){
                 set.add(nums[i]);
                 nums[k] = nums[i];
-                k++; 
+                k++;
             }
         }
 
         return k;
-        
     }
 }
