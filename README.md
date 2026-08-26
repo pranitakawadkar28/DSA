@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranitakawadkar28/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1927-sum-game](https://github.com/pranitakawadkar28/DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pranitakawadkar28/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranitakawadkar28/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranitakawadkar28/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranitakawadkar28/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pranitakawadkar28/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranitakawadkar28/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranitakawadkar28/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranitakawadkar28/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranitakawadkar28/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranitakawadkar28/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
