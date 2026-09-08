@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranitakawadkar28/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pranitakawadkar28/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranitakawadkar28/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/pranitakawadkar28/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
