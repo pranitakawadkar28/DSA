@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranitakawadkar28/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranitakawadkar28/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranitakawadkar28/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pranitakawadkar28/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranitakawadkar28/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranitakawadkar28/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranitakawadkar28/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/pranitakawadkar28/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/pranitakawadkar28/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranitakawadkar28/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pranitakawadkar28/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranitakawadkar28/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pranitakawadkar28/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pranitakawadkar28/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranitakawadkar28/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pranitakawadkar28/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/pranitakawadkar28/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
