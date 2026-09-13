@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/pranitakawadkar28/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0704-binary-search](https://github.com/pranitakawadkar28/DSA/tree/main/0704-binary-search/) | Easy |
+| [0835-image-overlap](https://github.com/pranitakawadkar28/DSA/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -343,4 +344,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pranitakawadkar28/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/pranitakawadkar28/DSA/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
