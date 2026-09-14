@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranitakawadkar28/DSA/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranitakawadkar28/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranitakawadkar28/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/pranitakawadkar28/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/pranitakawadkar28/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/pranitakawadkar28/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/pranitakawadkar28/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -348,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/pranitakawadkar28/DSA/tree/main/0835-image-overlap/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/pranitakawadkar28/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
